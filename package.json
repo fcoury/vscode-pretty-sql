@@ -2,6 +2,7 @@
 	"name": "pretty-sql",
 	"displayName": "Pretty SQL",
 	"description": "Uses the SQLFormat library to format SQL",
+	"publisher": "fcoury",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/fcoury/vscode-pretty-sql"
