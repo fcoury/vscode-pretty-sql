@@ -23,7 +23,11 @@ Internet access.
 First version of the extension, mostly for personal use.
 
 # Version Notes
-### 1.0.0
+### 0.0.2
+
+- Clears any leftover selection after replacing the SQL query.
+
+### 0.0.1
 
 - Initial release
 
