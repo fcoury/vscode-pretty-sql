@@ -33,6 +33,8 @@ export function activate(context: vscode.ExtensionContext) {
             newText
           );
         });
+        var postion = editor.selection.end;
+        editor.selection = new vscode.Selection(postion, postion);
       }
     }
   );
